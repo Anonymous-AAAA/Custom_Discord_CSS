@@ -117,4 +117,10 @@
 .container_ca50b9 {
     height: auto;
     flex-direction: column;
+    padding-top: 8px;
+    border-top: 1px solid var(--background-modifier-accent);
+}
+
+.container_ca50b9>div {
+  margin: 0;
 }
