@@ -113,3 +113,8 @@
   --bd-blue-hover: var(--hover-color); /* betterdiscord hover color [default: var(--hover-color)] */
   --bd-blue-active: var(--hover-color); /* betterdiscord active color [default: var(--hover-color)] */
 }
+
+.container_ca50b9 {
+    height: auto;
+    flex-direction: column;
+}
