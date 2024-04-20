@@ -114,13 +114,13 @@
   --bd-blue-active: var(--hover-color); /* betterdiscord active color [default: var(--hover-color)] */
 }
 
-.container_ca50b9 {
+.container_debb33 {
     height: auto;
     flex-direction: column;
     padding-top: 8px;
     border-top: 1px solid var(--background-modifier-accent);
 }
 
-.container_ca50b9>div {
+.container_debb33>div {
   margin: 0;
 }
