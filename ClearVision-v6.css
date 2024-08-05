@@ -125,9 +125,9 @@
   margin: 0;
 }
 
-button[aria-label="Send a gift"] {
+/* button[aria-label="Send a gift"] {
     display: none;
-}
+} */
 
 .buttons_d0696b {
     display: grid;
